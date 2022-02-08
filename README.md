@@ -1,0 +1,1 @@
+# Metin2-Disable_Negative_HP_When_Die
